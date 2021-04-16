@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on .net core, reactjs, azure devops & aws.
+- 🌱 I’m currently learning how to learn
