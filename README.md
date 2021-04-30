@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on .net core, reactjs, azure devops & aws.
 - 🌱 I’m currently learning how to learn
+- 😎 Always blogging: https://www.mackolicious.com/blog
